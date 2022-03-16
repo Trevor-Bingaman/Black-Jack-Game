@@ -1,5 +1,4 @@
-#filename: BJPoject
-#Purpose: To play a game of blackjack
+#Title: Blackjack Game
 #Programmer: Trevor Bingaman
 from random import*
 def createDeck():
